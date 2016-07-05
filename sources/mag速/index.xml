@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ディズニーニュース - スマホでみやすいシンプルまとめ </title>
+    <link>http://news.disney.yogurt.blue/sources/mag%E9%80%9F/</link>
+    <description>Recent content in MAG速 on ディズニーニュース - スマホでみやすいシンプルまとめ</description>
+    
+    <language>ja-JP</language>
+    
+    
+    <rights>(C) 2016</rights>
+    <updated>2016-06-25 03:12:00 &#43;0000 UTC</updated>
+    
+    <lastBuildDate>Sat, 25 Jun 2016 03:12:00 +0000</lastBuildDate>
+    
+    <docs>http://news.disney.yogurt.blue/sources/mag%E9%80%9F/index.xml</docs>
+    <atom:link href="http://news.disney.yogurt.blue/sources/mag%E9%80%9F/index.xml" rel="self" type="application/rss+xml" />
+
+    
+      
+        <item>
+          <title>クオリティ高いアニメ教えろ</title>
+          <link>http://news.disney.yogurt.blue/post/kuoriteitakaianimeoshiero/</link>
+          <pubDate>Sat, 25 Jun 2016 03:12:00 UTC</pubDate>
+          
+          <guid>http://news.disney.yogurt.blue/post/kuoriteitakaianimeoshiero/</guid>
+          <description></description>
+        </item>
+      
+    
+      
+        <item>
+          <title>なんていうか「このアニメ絶対流行らせるｗｗｗ」ってノリで作られたアニメってこけるよな</title>
+          <link>http://news.disney.yogurt.blue/post/nanteiukakonoanimezettaihayaraseruttenoridetsukuraretaanimettekokeruyona/</link>
+          <pubDate>Thu, 23 Jun 2016 11:12:00 UTC</pubDate>
+          
+          <guid>http://news.disney.yogurt.blue/post/nanteiukakonoanimezettaihayaraseruttenoridetsukuraretaanimettekokeruyona/</guid>
+          <description></description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
